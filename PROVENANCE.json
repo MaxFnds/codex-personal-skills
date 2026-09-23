@@ -1,0 +1,267 @@
+﻿[
+    {
+        "name":  "planning-with-files",
+        "repo":  "planning-with-files",
+        "commit":  "0827eeaecfb019e89a98858e1d372d45253fdbdc"
+    },
+    {
+        "name":  "agy-delegate",
+        "repo":  "delegate-skills",
+        "commit":  "6826b363085dcc80875372315fe7d208c4bf733f"
+    },
+    {
+        "name":  "aider-delegate",
+        "repo":  "delegate-skills",
+        "commit":  "6826b363085dcc80875372315fe7d208c4bf733f"
+    },
+    {
+        "name":  "claude-delegate",
+        "repo":  "delegate-skills",
+        "commit":  "6826b363085dcc80875372315fe7d208c4bf733f"
+    },
+    {
+        "name":  "cline-delegate",
+        "repo":  "delegate-skills",
+        "commit":  "6826b363085dcc80875372315fe7d208c4bf733f"
+    },
+    {
+        "name":  "codex-delegate",
+        "repo":  "delegate-skills",
+        "commit":  "6826b363085dcc80875372315fe7d208c4bf733f"
+    },
+    {
+        "name":  "commandcode-delegate",
+        "repo":  "delegate-skills",
+        "commit":  "6826b363085dcc80875372315fe7d208c4bf733f"
+    },
+    {
+        "name":  "copilot-delegate",
+        "repo":  "delegate-skills",
+        "commit":  "6826b363085dcc80875372315fe7d208c4bf733f"
+    },
+    {
+        "name":  "cursor-delegate",
+        "repo":  "delegate-skills",
+        "commit":  "6826b363085dcc80875372315fe7d208c4bf733f"
+    },
+    {
+        "name":  "delegate-setup",
+        "repo":  "delegate-skills",
+        "commit":  "6826b363085dcc80875372315fe7d208c4bf733f"
+    },
+    {
+        "name":  "grok-delegate",
+        "repo":  "delegate-skills",
+        "commit":  "6826b363085dcc80875372315fe7d208c4bf733f"
+    },
+    {
+        "name":  "kimi-delegate",
+        "repo":  "delegate-skills",
+        "commit":  "6826b363085dcc80875372315fe7d208c4bf733f"
+    },
+    {
+        "name":  "omp-delegate",
+        "repo":  "delegate-skills",
+        "commit":  "6826b363085dcc80875372315fe7d208c4bf733f"
+    },
+    {
+        "name":  "opencode-delegate",
+        "repo":  "delegate-skills",
+        "commit":  "6826b363085dcc80875372315fe7d208c4bf733f"
+    },
+    {
+        "name":  "pi-delegate",
+        "repo":  "delegate-skills",
+        "commit":  "6826b363085dcc80875372315fe7d208c4bf733f"
+    },
+    {
+        "name":  "qoder-delegate",
+        "repo":  "delegate-skills",
+        "commit":  "6826b363085dcc80875372315fe7d208c4bf733f"
+    },
+    {
+        "name":  "vibe-delegate",
+        "repo":  "delegate-skills",
+        "commit":  "6826b363085dcc80875372315fe7d208c4bf733f"
+    },
+    {
+        "name":  "warp-delegate",
+        "repo":  "delegate-skills",
+        "commit":  "6826b363085dcc80875372315fe7d208c4bf733f"
+    },
+    {
+        "name":  "zcode-delegate",
+        "repo":  "delegate-skills",
+        "commit":  "6826b363085dcc80875372315fe7d208c4bf733f"
+    },
+    {
+        "name":  "brainstorming",
+        "repo":  "superpowers",
+        "commit":  "5bf4e78011075bcfc0dc295f0724994cd123ee71"
+    },
+    {
+        "name":  "diagnosing-superpowers",
+        "repo":  "superpowers",
+        "commit":  "5bf4e78011075bcfc0dc295f0724994cd123ee71"
+    },
+    {
+        "name":  "dispatching-parallel-agents",
+        "repo":  "superpowers",
+        "commit":  "5bf4e78011075bcfc0dc295f0724994cd123ee71"
+    },
+    {
+        "name":  "executing-plans",
+        "repo":  "superpowers",
+        "commit":  "5bf4e78011075bcfc0dc295f0724994cd123ee71"
+    },
+    {
+        "name":  "finishing-a-development-branch",
+        "repo":  "superpowers",
+        "commit":  "5bf4e78011075bcfc0dc295f0724994cd123ee71"
+    },
+    {
+        "name":  "receiving-code-review",
+        "repo":  "superpowers",
+        "commit":  "5bf4e78011075bcfc0dc295f0724994cd123ee71"
+    },
+    {
+        "name":  "requesting-code-review",
+        "repo":  "superpowers",
+        "commit":  "5bf4e78011075bcfc0dc295f0724994cd123ee71"
+    },
+    {
+        "name":  "subagent-driven-development",
+        "repo":  "superpowers",
+        "commit":  "5bf4e78011075bcfc0dc295f0724994cd123ee71"
+    },
+    {
+        "name":  "systematic-debugging",
+        "repo":  "superpowers",
+        "commit":  "5bf4e78011075bcfc0dc295f0724994cd123ee71"
+    },
+    {
+        "name":  "test-driven-development",
+        "repo":  "superpowers",
+        "commit":  "5bf4e78011075bcfc0dc295f0724994cd123ee71"
+    },
+    {
+        "name":  "using-git-worktrees",
+        "repo":  "superpowers",
+        "commit":  "5bf4e78011075bcfc0dc295f0724994cd123ee71"
+    },
+    {
+        "name":  "using-superpowers",
+        "repo":  "superpowers",
+        "commit":  "5bf4e78011075bcfc0dc295f0724994cd123ee71"
+    },
+    {
+        "name":  "verification-before-completion",
+        "repo":  "superpowers",
+        "commit":  "5bf4e78011075bcfc0dc295f0724994cd123ee71"
+    },
+    {
+        "name":  "writing-plans",
+        "repo":  "superpowers",
+        "commit":  "5bf4e78011075bcfc0dc295f0724994cd123ee71"
+    },
+    {
+        "name":  "writing-skills",
+        "repo":  "superpowers",
+        "commit":  "5bf4e78011075bcfc0dc295f0724994cd123ee71"
+    },
+    {
+        "name":  "mantis-advise",
+        "repo":  "mantis",
+        "commit":  "6f523a39ccb535b4f5411310f31e872fab954e07"
+    },
+    {
+        "name":  "mantis-architecture",
+        "repo":  "mantis",
+        "commit":  "6f523a39ccb535b4f5411310f31e872fab954e07"
+    },
+    {
+        "name":  "mantis-calibrate",
+        "repo":  "mantis",
+        "commit":  "6f523a39ccb535b4f5411310f31e872fab954e07"
+    },
+    {
+        "name":  "mantis-chain",
+        "repo":  "mantis",
+        "commit":  "6f523a39ccb535b4f5411310f31e872fab954e07"
+    },
+    {
+        "name":  "mantis-critic",
+        "repo":  "mantis",
+        "commit":  "6f523a39ccb535b4f5411310f31e872fab954e07"
+    },
+    {
+        "name":  "mantis-dedupe",
+        "repo":  "mantis",
+        "commit":  "6f523a39ccb535b4f5411310f31e872fab954e07"
+    },
+    {
+        "name":  "mantis-history",
+        "repo":  "mantis",
+        "commit":  "6f523a39ccb535b4f5411310f31e872fab954e07"
+    },
+    {
+        "name":  "mantis-meta-agent",
+        "repo":  "mantis",
+        "commit":  "6f523a39ccb535b4f5411310f31e872fab954e07"
+    },
+    {
+        "name":  "mantis-patch",
+        "repo":  "mantis",
+        "commit":  "6f523a39ccb535b4f5411310f31e872fab954e07"
+    },
+    {
+        "name":  "mantis-pipeline-adapter",
+        "repo":  "mantis",
+        "commit":  "6f523a39ccb535b4f5411310f31e872fab954e07"
+    },
+    {
+        "name":  "mantis-plan",
+        "repo":  "mantis",
+        "commit":  "6f523a39ccb535b4f5411310f31e872fab954e07"
+    },
+    {
+        "name":  "mantis-reflect",
+        "repo":  "mantis",
+        "commit":  "6f523a39ccb535b4f5411310f31e872fab954e07"
+    },
+    {
+        "name":  "mantis-report",
+        "repo":  "mantis",
+        "commit":  "6f523a39ccb535b4f5411310f31e872fab954e07"
+    },
+    {
+        "name":  "mantis-reproduce",
+        "repo":  "mantis",
+        "commit":  "6f523a39ccb535b4f5411310f31e872fab954e07"
+    },
+    {
+        "name":  "mantis-researcher",
+        "repo":  "mantis",
+        "commit":  "6f523a39ccb535b4f5411310f31e872fab954e07"
+    },
+    {
+        "name":  "mantis-review",
+        "repo":  "mantis",
+        "commit":  "6f523a39ccb535b4f5411310f31e872fab954e07"
+    },
+    {
+        "name":  "mantis-structural-index",
+        "repo":  "mantis",
+        "commit":  "6f523a39ccb535b4f5411310f31e872fab954e07"
+    },
+    {
+        "name":  "mantis-summarize",
+        "repo":  "mantis",
+        "commit":  "6f523a39ccb535b4f5411310f31e872fab954e07"
+    },
+    {
+        "name":  "mantis-threat-model",
+        "repo":  "mantis",
+        "commit":  "6f523a39ccb535b4f5411310f31e872fab954e07"
+    }
+]

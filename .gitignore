@@ -1,0 +1,12 @@
+.env
+.env.*
+auth.json
+credentials*
+node_modules/
+.system/
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+.DS_Store

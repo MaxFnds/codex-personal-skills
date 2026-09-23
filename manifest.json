@@ -1,0 +1,1001 @@
+{
+  "skills": 66,
+  "files": [
+    {
+      "path": "agy-delegate/references/dispatch-and-poll.md",
+      "sha256": "df96e8e048a0072903a42b035a1399e48859e16289e1bac103020c4612b2d2fe"
+    },
+    {
+      "path": "agy-delegate/references/multi-task-queues.md",
+      "sha256": "b806f1fcbbd6336403b7e799c286d8455cb372396149ffdab4456130a743b109"
+    },
+    {
+      "path": "agy-delegate/references/review-and-land.md",
+      "sha256": "6d4a2198bc6f7ddfcf56af2f25a3935dc3a8bed029a71989157f3491d0cda82b"
+    },
+    {
+      "path": "agy-delegate/references/writing-the-brief.md",
+      "sha256": "770d3ad8f4d7ca47162c259666b83f6685c369b8ea53c3a62dd1ee8e6f0b73c9"
+    },
+    {
+      "path": "agy-delegate/scripts/relay.mjs",
+      "sha256": "adb54994f3125d92b5675537a4b2cc39533d1548c6cc4e82de960dec19aced91"
+    },
+    {
+      "path": "agy-delegate/SKILL.md",
+      "sha256": "ea59ed27bc389cd4661b216cc1154e74ce49568e59d9981391d7284d4121ce16"
+    },
+    {
+      "path": "aider-delegate/references/dispatch-and-poll.md",
+      "sha256": "4c3adebc0cef9136a02aff6087afec884d81b24127efc51f3c99411cf96214e5"
+    },
+    {
+      "path": "aider-delegate/references/multi-task-queues.md",
+      "sha256": "27b10abf8c21d5b688678896ffefa01191f0aa52d5bddb135850ff01c505a436"
+    },
+    {
+      "path": "aider-delegate/references/review-and-land.md",
+      "sha256": "6127dffea6665b4f79a22a16a4e8254c8388c351e2c77cc97ea977f36a6d6f44"
+    },
+    {
+      "path": "aider-delegate/references/writing-the-brief.md",
+      "sha256": "1d95d6a1249ed450510dfa872d8f23b685d272af54e03df7d1b9828bb7f99cc3"
+    },
+    {
+      "path": "aider-delegate/scripts/relay.mjs",
+      "sha256": "90d6cabf506c9fdc0131810dafccbe3cf51a9565e58ba005f6a827d29f4fc330"
+    },
+    {
+      "path": "aider-delegate/SKILL.md",
+      "sha256": "6a8b3d55e3c3e49297e0be01deb817c955a84ab23dd591e3207e0ee69a41f791"
+    },
+    {
+      "path": "brainstorming/scripts/frame-template.html",
+      "sha256": "7b9418e9939dded0cf8e6a5549a18162b7c7e5495deeefa83a12f3394b81395d"
+    },
+    {
+      "path": "brainstorming/scripts/helper.js",
+      "sha256": "43c6d69954a46ec34a2a262bcc62a9a7e83e839c739f199cb72646d397c686e3"
+    },
+    {
+      "path": "brainstorming/scripts/server.cjs",
+      "sha256": "ee89af11506ac4933324c89a2cfb36b391fe611f82efb9eeb3b814e40825145f"
+    },
+    {
+      "path": "brainstorming/scripts/start-server.sh",
+      "sha256": "a4e5ae84275bcaacd2f84345afeabe59cf7b00ba080e123da7cc1fb226f12847"
+    },
+    {
+      "path": "brainstorming/scripts/stop-server.sh",
+      "sha256": "0b5ccbbd57f62d3ed88993f7940b5ee0e5c0fc9b21c550c623da4f6292e47daf"
+    },
+    {
+      "path": "brainstorming/SKILL.md",
+      "sha256": "a32d2255354775aa124855aa7100cf276bea096fff4ebb3a0edf57be216e6c72"
+    },
+    {
+      "path": "brainstorming/spec-document-reviewer-prompt.md",
+      "sha256": "95a0a195de9d984be2fffa95bab16fc8c563bc296a9cfc5e9c29cb3ece0d7457"
+    },
+    {
+      "path": "brainstorming/visual-companion.md",
+      "sha256": "6ffcb038b53254bd31debaa15e12dcd4ff24bd63d690e0b644ac6396701cf2e2"
+    },
+    {
+      "path": "brandkit/SKILL.md",
+      "sha256": "b0c4837e1bd140ca816ae54948754ddd2ac1e2a4d3619363777a80caf00b2ede"
+    },
+    {
+      "path": "brutalist-skill/SKILL.md",
+      "sha256": "fffbaac8597f07679e9d87145533567658aedba3b5eca6f16a7075a333048caa"
+    },
+    {
+      "path": "claude-delegate/references/dispatch-and-poll.md",
+      "sha256": "6c3a928c943ecd02ac46352a2a1aafa62c59cf43f796bc7fe9873062ad699149"
+    },
+    {
+      "path": "claude-delegate/references/multi-task-queues.md",
+      "sha256": "9cb6d6eadf1159feeb8bc9d5c0d0cc902f8f9184948a6f02073de1415483e3ef"
+    },
+    {
+      "path": "claude-delegate/references/review-and-land.md",
+      "sha256": "1bc96373580ddb8418bef5a2797b5dd4a97e134ef1b6aca44d320a16ec098b03"
+    },
+    {
+      "path": "claude-delegate/references/writing-the-brief.md",
+      "sha256": "19a8b7f5ff2971c90a84bef6fbc0bfe6835f9fd2dd532f41e73276d7158f2f25"
+    },
+    {
+      "path": "claude-delegate/scripts/relay.mjs",
+      "sha256": "e5facd4a11a1baa237d68f057fe72d49ea5f75574354973a18e0a89a7c78867e"
+    },
+    {
+      "path": "claude-delegate/SKILL.md",
+      "sha256": "1811281b26a01ed4d1c6a57aac0f27197256147c3d7e7446654bbf9d8713af1b"
+    },
+    {
+      "path": "cline-delegate/references/dispatch-and-poll.md",
+      "sha256": "3fbccbcd5ab190aeae5a38d6e0b4e3b4f63e23daa5bd847847c25ccd336531a2"
+    },
+    {
+      "path": "cline-delegate/references/multi-task-queues.md",
+      "sha256": "ad4ca1ae6b9e1bc3fcd319e7d1ada37a40eaf953f8ff09576327e81e8ff126e7"
+    },
+    {
+      "path": "cline-delegate/references/review-and-land.md",
+      "sha256": "935d06f9860319217fd734ef0d28b79380bb95723218ce99a06621f14976f4a2"
+    },
+    {
+      "path": "cline-delegate/references/writing-the-brief.md",
+      "sha256": "b205cbd074df454caec63f812e11410494256b9dc249c39bebd2377b6ed746a7"
+    },
+    {
+      "path": "cline-delegate/scripts/relay.mjs",
+      "sha256": "92385f4b013604cc79616d82b220a33afedb8c28ac079c51a08ce03d28abaa73"
+    },
+    {
+      "path": "cline-delegate/SKILL.md",
+      "sha256": "65eef050c053e6a980eb7da33831e5af285dce46eaece3073a09f847d6e13c78"
+    },
+    {
+      "path": "codex-delegate/references/dispatch-and-poll.md",
+      "sha256": "da77bc0569bc2b60a086dcea3c35d75034ca6dcd95e8005f4bb4c0367bf1d64a"
+    },
+    {
+      "path": "codex-delegate/references/multi-task-queues.md",
+      "sha256": "f9dc3689cf0d2c701668641494f41820ae68f2be3109b2aaa6e0579287ab66c3"
+    },
+    {
+      "path": "codex-delegate/references/review-and-land.md",
+      "sha256": "c646bb3a3c230dd898b26b6dc7263aa05b2a7cc29dc44e5bae0486110f451c7e"
+    },
+    {
+      "path": "codex-delegate/references/writing-the-brief.md",
+      "sha256": "221c004532c30fb5275c091f82ca10a3bd7b9349ceb6868f908532b30c24a1a7"
+    },
+    {
+      "path": "codex-delegate/scripts/relay.mjs",
+      "sha256": "a888153d5a50906ee7376d784a8a5e773544e58f40042af4274eade1270acd69"
+    },
+    {
+      "path": "codex-delegate/SKILL.md",
+      "sha256": "fe73bea2e1e05ddc006e12166b0a3de63cb1a7c1673e3816a5548f6fa033fe2d"
+    },
+    {
+      "path": "commandcode-delegate/references/dispatch-and-poll.md",
+      "sha256": "5387878da761a7b7be4feabad549260633837e096fe08fd7b3a71475f968a5b2"
+    },
+    {
+      "path": "commandcode-delegate/references/multi-task-queues.md",
+      "sha256": "11e7a91644389cb57523d9ffdf6916464a071fe540a8a212a9b4a20c4b75e112"
+    },
+    {
+      "path": "commandcode-delegate/references/review-and-land.md",
+      "sha256": "018963f7085b396fff930ecd9d66f08b86934eed516b7cecabbb58fbdf4ab760"
+    },
+    {
+      "path": "commandcode-delegate/references/writing-the-brief.md",
+      "sha256": "652a6e2edf8da3dab544acce30d28810616de32841f7af97d2e4db6695379c6d"
+    },
+    {
+      "path": "commandcode-delegate/scripts/relay.mjs",
+      "sha256": "c19c2b31542340f781b5f3e2cbc726177112ee88207d297e40d98fe196e88c0e"
+    },
+    {
+      "path": "commandcode-delegate/SKILL.md",
+      "sha256": "493769b994c32753f361164210dfb4710c54198f83b62d1713c1d3ea1b80f161"
+    },
+    {
+      "path": "copilot-delegate/references/dispatch-and-poll.md",
+      "sha256": "797b0e4cad3748169edaff4b154e99dca83a6382bb03a78728913893aec64988"
+    },
+    {
+      "path": "copilot-delegate/references/multi-task-queues.md",
+      "sha256": "74b1d9c9d093a1b911c228b1f14cb9bf3154d67331e38a4b5d6db73649813887"
+    },
+    {
+      "path": "copilot-delegate/references/review-and-land.md",
+      "sha256": "fb9a91db24ff5d4b5500756b0cae265d5d24aff52c1b0f41a58893467c5b6266"
+    },
+    {
+      "path": "copilot-delegate/references/writing-the-brief.md",
+      "sha256": "bd10172d44e776441785b3cda022996412e1c7e3023b2b223e3b63d2385089dc"
+    },
+    {
+      "path": "copilot-delegate/scripts/relay.mjs",
+      "sha256": "8e023b2e116e5f7add1d698321d623087a4dd667b7e1604ef52cc77f634fe714"
+    },
+    {
+      "path": "copilot-delegate/SKILL.md",
+      "sha256": "1797584042cd76506aae1bbc06e98a67fdf787a0ff416049a6a1fe79da1e73ec"
+    },
+    {
+      "path": "cursor-delegate/references/dispatch-and-poll.md",
+      "sha256": "55ba296f8071a65750873683490121d61701867ab90dbeb726e812363e2e4944"
+    },
+    {
+      "path": "cursor-delegate/references/multi-task-queues.md",
+      "sha256": "9a1f29f9c85ee3c4ded28ff2cf253db03cd82bb8d13464e80b57ee465227084c"
+    },
+    {
+      "path": "cursor-delegate/references/review-and-land.md",
+      "sha256": "684035cb044c74f3d1e4483833bf6d4ef5b1a562b1fce3b3ba55d7d9c745d3c0"
+    },
+    {
+      "path": "cursor-delegate/references/writing-the-brief.md",
+      "sha256": "acba0d98d29a839e4bb99adf66f131449b1325107fc705e0b9d27fe4e03c32ec"
+    },
+    {
+      "path": "cursor-delegate/scripts/relay.mjs",
+      "sha256": "7d1f6bb0d8eb734dd0074bb0123600ccedb6caf5f7208afbae4f5d5fec4962f1"
+    },
+    {
+      "path": "cursor-delegate/SKILL.md",
+      "sha256": "1708c8443638e2d3531d105a0453975e78144cb4bd09cda631d46cc6b5381ecf"
+    },
+    {
+      "path": "delegate-setup/references/schema.md",
+      "sha256": "aafcfefd7ebc4de28147548dd889876df2fef8dd993c40222e481d81c937a3fb"
+    },
+    {
+      "path": "delegate-setup/references/setup-dialogue.md",
+      "sha256": "890b9ff3c96c2415edeb2a72e8e544e1fab44bdc5732d7bddfe3eb8c24c9cf56"
+    },
+    {
+      "path": "delegate-setup/scripts/config.mjs",
+      "sha256": "0cefd9a8b8be2c759ab94602cb47de020d736d50777a38f686c9e1eaecb35bc2"
+    },
+    {
+      "path": "delegate-setup/scripts/discover.mjs",
+      "sha256": "5e7c774cba67350e3604ab845bd83e40fe80346d139e69846b9795cd72ecdfb0"
+    },
+    {
+      "path": "delegate-setup/scripts/implementers.mjs",
+      "sha256": "a131f3c000a892c3c8df5e6769a847a2c947af82ade7bce3dc029b2d61f156d9"
+    },
+    {
+      "path": "delegate-setup/scripts/lane.mjs",
+      "sha256": "c561d2148cf5ffeaa3ac260902a834e1953e528a1a6d6f72d59f7522ff98e1ee"
+    },
+    {
+      "path": "delegate-setup/SKILL.md",
+      "sha256": "d3c0d6acd46ed16a425d4e524d348acab6ed150907dd455ae68768c9409a881e"
+    },
+    {
+      "path": "diagnosing-superpowers/prompts/analyst-common.md",
+      "sha256": "88801c36070be2a54a8a9a29632b01ab21db053e2e76ee49b5252a9b74ca4090"
+    },
+    {
+      "path": "diagnosing-superpowers/prompts/cost-and-time.md",
+      "sha256": "fe97a66d4db3b436816ef82694bda413b522b3a862dd41978da01e358fffecc4"
+    },
+    {
+      "path": "diagnosing-superpowers/prompts/plan-adherence.md",
+      "sha256": "1dcbab82033598a2e9c9ee42e950d4b1822d2c871c02cef9e102cdd5cbbda113"
+    },
+    {
+      "path": "diagnosing-superpowers/prompts/quality-evidence.md",
+      "sha256": "749d11cf678f379ed77a29274cad456634e0284aa523639a1a214a9f2b986eb1"
+    },
+    {
+      "path": "diagnosing-superpowers/prompts/repeated-work.md",
+      "sha256": "895027f2dfa4b1b8bcdb7ac9aec8d45a80bff212fad6ec6cad5ab38fa68322f5"
+    },
+    {
+      "path": "diagnosing-superpowers/prompts/request-conflicts.md",
+      "sha256": "e800e38d8b7752c212c76c5c3ed75cd78b749684263ea0c313586f26af6f4b5c"
+    },
+    {
+      "path": "diagnosing-superpowers/prompts/scrub-audit.md",
+      "sha256": "5cc48f05a7f81f5f7e05e0c7ceafc0fb8774bcaf75fe88dcb5c7e408026c70ad"
+    },
+    {
+      "path": "diagnosing-superpowers/prompts/scrub.md",
+      "sha256": "854cb3320cc5377b493cea2f72519d67983464882db68a0f408a7d0a0f040b8c"
+    },
+    {
+      "path": "diagnosing-superpowers/prompts/similar-session.md",
+      "sha256": "b190f713b463df2bb5ec3914647e204074d1bd50643a53159db6d13cace916c1"
+    },
+    {
+      "path": "diagnosing-superpowers/prompts/skill-timeline.md",
+      "sha256": "45d604d583b57a77b9033eced8eb875ef342af70fcd66cf7d15c6dc89964890f"
+    },
+    {
+      "path": "diagnosing-superpowers/prompts/stumbles.md",
+      "sha256": "1f2d1f048aff7b8b400006301f1ce8c232ecc7e9d5f705af27a849b2c03ea2e7"
+    },
+    {
+      "path": "diagnosing-superpowers/references/context-safety.md",
+      "sha256": "e6be2bd3495f454d4bedee9484d728d245d1fa656e11fc4ceec5693c16e4730a"
+    },
+    {
+      "path": "diagnosing-superpowers/references/github-issues.md",
+      "sha256": "a656f5e15b21c7a200c39c038f5ede74b9d6ea3ceeb90f39af7e930c8d8424d6"
+    },
+    {
+      "path": "diagnosing-superpowers/references/redaction-policy.md",
+      "sha256": "96b16f47074838fe2d7e609577d6f8b0ad460f8378b281a3f96ee23cb5a08bde"
+    },
+    {
+      "path": "diagnosing-superpowers/references/session-discovery.md",
+      "sha256": "6d1dced083e5d978448a78df298cf515531b0eb39b2854a4a2afbffeb69a7435"
+    },
+    {
+      "path": "diagnosing-superpowers/SKILL.md",
+      "sha256": "5a652f8132cc901eb5ca61f89157839f87a2f20aed037fc7a2b51051bc37cd19"
+    },
+    {
+      "path": "diagnosing-superpowers/templates/bundle-README.md",
+      "sha256": "2e6ddc6b106028d5ebd00a50ad93a77111d675c219ee1273cd0857869e8d51ec"
+    },
+    {
+      "path": "diagnosing-superpowers/templates/case.md",
+      "sha256": "597892462be83bc478536ec91f7c285f6dd25d119c560734a3a180fe8471301d"
+    },
+    {
+      "path": "diagnosing-superpowers/templates/issue.md",
+      "sha256": "8f28dbfe60602f77dda76d81815cb4e2dce7d3e2a93348890e1581be8310ac1f"
+    },
+    {
+      "path": "diagnosing-superpowers/templates/report.md",
+      "sha256": "38295d0fd785e8608f330815c59ebd7047942002ec7085aecbed54681f56b0c1"
+    },
+    {
+      "path": "dispatching-parallel-agents/SKILL.md",
+      "sha256": "1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c"
+    },
+    {
+      "path": "executing-plans/scripts/task-done",
+      "sha256": "5896ebbb8c2a942a523913de6975b2a6334a27d0b9bc128cedad83bd2737792a"
+    },
+    {
+      "path": "executing-plans/scripts/task-start",
+      "sha256": "5eb4db5457bfe9d201712fd7322896afd2f7f12b277b563900331b4e2ddfb114"
+    },
+    {
+      "path": "executing-plans/SKILL.md",
+      "sha256": "f38e8f2ddcf079f65493adc713c1fed78421dfaf5f4dbf6b3a6b2b1d95466e71"
+    },
+    {
+      "path": "finishing-a-development-branch/SKILL.md",
+      "sha256": "8db5a922b242dd4e1bf824cb91c13b3e8d8e8a86d6ceaf7f0774eb9cce909d65"
+    },
+    {
+      "path": "gpt-tasteskill/SKILL.md",
+      "sha256": "2e64c269953f2656c21bf5a0fa6b4568e82fe0c72b36e8f84758e090349966a5"
+    },
+    {
+      "path": "grok-delegate/references/dispatch-and-poll.md",
+      "sha256": "189894273a94aed0fdc6be90d848568fa276da7d1b31a82fa346f85c6e47a53f"
+    },
+    {
+      "path": "grok-delegate/references/multi-task-queues.md",
+      "sha256": "292bd34f3c0099cd276c43ad97943b2135b91003d84c08f8836897c259896441"
+    },
+    {
+      "path": "grok-delegate/references/review-and-land.md",
+      "sha256": "c16c8cf929638c574007c844fd219a25532284fbcb4b3c0e2066df15165c1787"
+    },
+    {
+      "path": "grok-delegate/references/writing-the-brief.md",
+      "sha256": "5dbb42f2556d3d6662093eae403ca6644072f53d61255e0776a181f4f8051d98"
+    },
+    {
+      "path": "grok-delegate/scripts/relay.mjs",
+      "sha256": "611aa4426113dd3e3352083a9caa087c23f3fb98c19d0553fd0495b2dd3ec532"
+    },
+    {
+      "path": "grok-delegate/SKILL.md",
+      "sha256": "e5bfb1b54be72bd0502559cfbaca85202d62ac0f26f61657f19c4b8a3820c9af"
+    },
+    {
+      "path": "image-to-code-skill/SKILL.md",
+      "sha256": "4c060a8064a8b13380bc2ef3d6e6a1d0b1e316aa093cd9807d0ce9e4eeb037fa"
+    },
+    {
+      "path": "imagegen-frontend-mobile/SKILL.md",
+      "sha256": "8a33389979f3074fa0926678e266ad2eb9234624472254469fc1ad916b9caa24"
+    },
+    {
+      "path": "imagegen-frontend-web/SKILL.md",
+      "sha256": "6b5c2256522fdba1e3313eafa3d743b960a7b13ec029d3e6586e04b23327c1f8"
+    },
+    {
+      "path": "kimi-delegate/references/dispatch-and-poll.md",
+      "sha256": "de38c10f9407e3bfbe0213c00442c3c25c3cc026db5574600f5a5168be84732d"
+    },
+    {
+      "path": "kimi-delegate/references/multi-task-queues.md",
+      "sha256": "f9ad07ebfd26f2e71fed8139c43dba34aa338ff40320ff6853c07c216390bcb9"
+    },
+    {
+      "path": "kimi-delegate/references/review-and-land.md",
+      "sha256": "e8c096a53265b1127041a360c5d4efdbedd24c5ab7eb732a4a11dd80b01d6868"
+    },
+    {
+      "path": "kimi-delegate/references/writing-the-brief.md",
+      "sha256": "cdfc0389ceed3a4c0bdfed45daffa4153cf9fcce0ce0c411d55995b374c0bd24"
+    },
+    {
+      "path": "kimi-delegate/scripts/relay.mjs",
+      "sha256": "675d6449c46d0941a56655c2a35197f84cbc5b950a1970a04e631cc179ec41b6"
+    },
+    {
+      "path": "kimi-delegate/SKILL.md",
+      "sha256": "911b74baf3176e1bcb2d957da0c7cf4335bd818c2f539571ac1b00750c9d90a1"
+    },
+    {
+      "path": "mantis-advise/SKILL.md",
+      "sha256": "4098cd5e45ea1243ee400bbab94dfa75fdf77abac06662c76f55f3f00314ec0e"
+    },
+    {
+      "path": "mantis-architecture/SKILL.md",
+      "sha256": "098761f3fc8ec7824fc12dbf19ce3a19d0087e8b4a4b80e6ac65726ef52d10fe"
+    },
+    {
+      "path": "mantis-calibrate/references/calibration_rules.md",
+      "sha256": "18766a113129b7a73832c432bf3df829cc50f37f0ccad3ab759d0f66b0353e27"
+    },
+    {
+      "path": "mantis-calibrate/SKILL.md",
+      "sha256": "62d8a14495425dbc4ee031e62b07d98e574df50ceed154448e901bf3215d4aba"
+    },
+    {
+      "path": "mantis-chain/SKILL.md",
+      "sha256": "ff94a2179195a2c78b9d2aea5736f95748983ba2cbeea1700094fcbda497039b"
+    },
+    {
+      "path": "mantis-critic/SKILL.md",
+      "sha256": "0bf41a88aeac7df04b59a4e2978e02ddca1de1dd8c104a5c2e983131ff2c6942"
+    },
+    {
+      "path": "mantis-dedupe/SKILL.md",
+      "sha256": "90ce74f649f02fedbd31825149c84aa9bc3fddf0558dff092cf7e99875bb249c"
+    },
+    {
+      "path": "mantis-history/SKILL.md",
+      "sha256": "6aeaa17d6d0ece4dca75bdeb93e7cf399fed0b7f78785fec67456970f82e0960"
+    },
+    {
+      "path": "mantis-meta-agent/SKILL.md",
+      "sha256": "42aa3463b82cdf862c969710348026bfc627e61141d63ebaf3c0861273eebaac"
+    },
+    {
+      "path": "mantis-patch/references/patch_rebasing.md",
+      "sha256": "41facc3e57dd265be23aba72316aabc16001bd22573119bc6ce99816228e50e3"
+    },
+    {
+      "path": "mantis-patch/SKILL.md",
+      "sha256": "2396ee092b97ea67aa967940f788cef8c0e2caf56e9092a9876959b1fbf8ae49"
+    },
+    {
+      "path": "mantis-pipeline-adapter/references/mantis-kb-query.md",
+      "sha256": "acf6dd4d27f592ba9d966c28b375cb7ec082bd354879633d90c583e6d00821cd"
+    },
+    {
+      "path": "mantis-pipeline-adapter/references/mantis-sast-seed.md",
+      "sha256": "0ddaae964127e18c0f1ca38e99da1ecbded3cf4f97a2914fb210aa348ef88f44"
+    },
+    {
+      "path": "mantis-pipeline-adapter/references/mantis-structural-index.md",
+      "sha256": "f2044efc9e3e11d2a4477dcb8c760913be0a26faf86fb8dfdb907db243443a65"
+    },
+    {
+      "path": "mantis-pipeline-adapter/SKILL.md",
+      "sha256": "5396b722faa0c8a27a5379702bbd6265bae5fdd6d10b2101d83d34ba897ad644"
+    },
+    {
+      "path": "mantis-plan/SKILL.md",
+      "sha256": "1a11a1e3ef24f514f7d21bb477be6ef8416ee150505d1ead0088ee835e479430"
+    },
+    {
+      "path": "mantis-reflect/SKILL.md",
+      "sha256": "43534e2c5288a20f34d2a2f3a551e8827010c0baf89c5c13db2534b4d12abf86"
+    },
+    {
+      "path": "mantis-report/SKILL.md",
+      "sha256": "847231f2ff47baeb2acd2e2db255dbc066232e408e51819158ce03fc5e1df8bd"
+    },
+    {
+      "path": "mantis-reproduce/SKILL.md",
+      "sha256": "00440f0601da92645093946bc22abf9342a5fe3f1299c49e39e7268ac3183228"
+    },
+    {
+      "path": "mantis-researcher/SKILL.md",
+      "sha256": "8d3e7fd413419c6288b62ff3cbb3d57da2fef0d230b409ecdae6c0cfb5f671c7"
+    },
+    {
+      "path": "mantis-review/SKILL.md",
+      "sha256": "cc38fff95f4805f244da8b05e6967bd09e7ee507c2cc15c408d58edd5d0e1344"
+    },
+    {
+      "path": "mantis-structural-index/SKILL.md",
+      "sha256": "1b9585a6186e83d35337a3c9bbb2878127e4a435ac9ade7d737f599218eb29ff"
+    },
+    {
+      "path": "mantis-summarize/SKILL.md",
+      "sha256": "62f7460731e004e3b2e05d2b953177edc55492b457f08b79e8856d723315e87d"
+    },
+    {
+      "path": "mantis-threat-model/SKILL.md",
+      "sha256": "b449e61c7a586b10a04b8f3c07557236ae24eadb3699ccb629a08971a0a7fece"
+    },
+    {
+      "path": "minimalist-skill/SKILL.md",
+      "sha256": "36bc7328f085405f43b476938e62460fa573bf7e984e949e072bcf014831a44c"
+    },
+    {
+      "path": "omp-delegate/references/dispatch-and-poll.md",
+      "sha256": "19f7cacb50be5d9448cc255f5fac0a4908b798f3ff835b218a1473d487e72595"
+    },
+    {
+      "path": "omp-delegate/references/multi-task-queues.md",
+      "sha256": "7617548bec4677e79ddff17b23043cb9520c2185c3088ca6295735e6f73e51ac"
+    },
+    {
+      "path": "omp-delegate/references/review-and-land.md",
+      "sha256": "9afdf2142f521021c38e10b7c1c46f7b4846a0671d3212462cee6dc4d47efb19"
+    },
+    {
+      "path": "omp-delegate/references/writing-the-brief.md",
+      "sha256": "9004fdfc86bb3aa849feabeb5b19f4931660fa6b2720a9637c1f293fe877b1be"
+    },
+    {
+      "path": "omp-delegate/scripts/relay.mjs",
+      "sha256": "a43fb5d57f305249a9c58e972b01aa0ffae1ef7513374675728e6f2f4f74a952"
+    },
+    {
+      "path": "omp-delegate/SKILL.md",
+      "sha256": "8abe921b6ec1550196b5972e7bea0f64bc14cd805c810beedb96a89c70c3a504"
+    },
+    {
+      "path": "opencode-delegate/references/dispatch-and-poll.md",
+      "sha256": "4382b360aded0745c17871ae2eb278070a1ef8fc14adf06da37b42be6b94a83f"
+    },
+    {
+      "path": "opencode-delegate/references/multi-task-queues.md",
+      "sha256": "5b17c55fae3badc3da0b4d1a2862b421eef461b7ef269907cce96294e23e2e3d"
+    },
+    {
+      "path": "opencode-delegate/references/review-and-land.md",
+      "sha256": "e51a180ca3595e0f52bf5f32081948c19c0a48716f36121aa0453b833298f99a"
+    },
+    {
+      "path": "opencode-delegate/references/writing-the-brief.md",
+      "sha256": "673404575df908bf231529e67627bcb3be374a11c79798e845fc7456642ccbcc"
+    },
+    {
+      "path": "opencode-delegate/scripts/relay.mjs",
+      "sha256": "e73d4e75c2221e8b0776d28f9cf367bc26464797a15c0be1fb80ed5bf2b70557"
+    },
+    {
+      "path": "opencode-delegate/SKILL.md",
+      "sha256": "35399368a957960951262e347a5b55f01e3c628d058d314f2df5321141664909"
+    },
+    {
+      "path": "output-skill/SKILL.md",
+      "sha256": "e5bf48b1ae561511439cf71672209a10a88cee0968cc925909ff861dfa0a96a7"
+    },
+    {
+      "path": "pi-delegate/references/dispatch-and-poll.md",
+      "sha256": "05dfa12eb787eb4b4d3c816c9cccab2447238ac8aad391d1a18c4d23d828d0a4"
+    },
+    {
+      "path": "pi-delegate/references/multi-task-queues.md",
+      "sha256": "271e027a57e652a7d4b7774239a485dcc464ca5614faa68da0e9877d1d1ba84c"
+    },
+    {
+      "path": "pi-delegate/references/review-and-land.md",
+      "sha256": "e5b199737d7f7aac9f88c9fae498cb1819b47c347d1ade4a83a358ca6d6209eb"
+    },
+    {
+      "path": "pi-delegate/references/writing-the-brief.md",
+      "sha256": "75fd33a2dc3acbaf4e14c68d95e961651a786437c50d437dce0cb2c0fa221f63"
+    },
+    {
+      "path": "pi-delegate/scripts/relay.mjs",
+      "sha256": "13bcd731c78e1f51f536cf706c681b1aa442c27be176712c4ff21189608b12e0"
+    },
+    {
+      "path": "pi-delegate/SKILL.md",
+      "sha256": "8e9689a88168b978c34200e9491bf7c947786992b69e4ee1f6820f43000a326b"
+    },
+    {
+      "path": "planning-with-files/references/examples.md",
+      "sha256": "930b18a2360cfce582080dc89cf13de81e25ad5fd623264a5b75f4fc98d899ac"
+    },
+    {
+      "path": "planning-with-files/references/reference.md",
+      "sha256": "cf1c0639ce33373d812449bbc7897a5bbf671099d5d6896f6adbaca0ef068f97"
+    },
+    {
+      "path": "planning-with-files/scripts/attest-plan.ps1",
+      "sha256": "290380786906513e86546b5db3dce2b3e178fc4d8809627345945acaeae74654"
+    },
+    {
+      "path": "planning-with-files/scripts/attest-plan.sh",
+      "sha256": "280d4ce9ba303d656f654da9ed6f49d1eeed76fb04936e9c7c7274eb05adf855"
+    },
+    {
+      "path": "planning-with-files/scripts/check-complete.ps1",
+      "sha256": "6fd32bb1845f7eb3cb839a1f6c02e57b96b4d15657f34ee8970e898dd48144b4"
+    },
+    {
+      "path": "planning-with-files/scripts/check-complete.sh",
+      "sha256": "5036090a610123fec918f9a621024c1aa119bad0dd5be3806164741bebe8b9b8"
+    },
+    {
+      "path": "planning-with-files/scripts/gate-stop.sh",
+      "sha256": "ed4f138ccd9ec727ccc5d966a523c8f8506779d93a30ec0329282b23c511c0e6"
+    },
+    {
+      "path": "planning-with-files/scripts/init-session.ps1",
+      "sha256": "9057d4cec5aa3d9243a346c99d7972a1fc1f57d0e0326dfc7b8543a361c28022"
+    },
+    {
+      "path": "planning-with-files/scripts/init-session.sh",
+      "sha256": "5e1fad55b3623e2d5d726094002999598337911ab919265c60d7efbd321562e2"
+    },
+    {
+      "path": "planning-with-files/scripts/inject-plan.py",
+      "sha256": "f51e63dfa53e5ff3642a76b047b0a7a436865bed47a25042df5ccfdd88edbcf0"
+    },
+    {
+      "path": "planning-with-files/scripts/inject-plan.sh",
+      "sha256": "d20a2bf046acca5ba7bc68889021fd73f8e62b5a6e07af6d5f16e3b17bacbe19"
+    },
+    {
+      "path": "planning-with-files/scripts/ledger-summary.sh",
+      "sha256": "064486ba5c0519eb9df7e5fb2f8c98e121b9d4b454ccaa1550bab6dffb047839"
+    },
+    {
+      "path": "planning-with-files/scripts/plan-doctor.sh",
+      "sha256": "5eb43fdc3da4f94f5e4f7e0fc912e508e0cc382b1f1150f5d51075f22c6ff0f5"
+    },
+    {
+      "path": "planning-with-files/scripts/resolve-plan-dir.ps1",
+      "sha256": "fc47c52f30aab6d2cb24714526d83792c315f591abc9c26ddc8be17eb15aeeab"
+    },
+    {
+      "path": "planning-with-files/scripts/resolve-plan-dir.sh",
+      "sha256": "3a4cbbefb518147a34081f747e677ce228b80eca886e849c132990362314a65d"
+    },
+    {
+      "path": "planning-with-files/scripts/session-catchup.py",
+      "sha256": "ce8e81ff88748185d6afc82860cdfa37bf5134d92ceb7db674585e1db1a4003d"
+    },
+    {
+      "path": "planning-with-files/scripts/set-active-plan.ps1",
+      "sha256": "3b63054bf3ad46d64081d603548d55739623971a9551d311a8ce64aacd523e23"
+    },
+    {
+      "path": "planning-with-files/scripts/set-active-plan.sh",
+      "sha256": "236e069f2e26b25358e7e2882d36376ed64f290de0d3c34a9ffff1b6c8b07de3"
+    },
+    {
+      "path": "planning-with-files/scripts/skill-hook.sh",
+      "sha256": "923aa675c840c7cb9a89202c4185d9472fbb66288e742302090360c497e3a961"
+    },
+    {
+      "path": "planning-with-files/SKILL.md",
+      "sha256": "f0e086696e56f681867e6436dbec97ca4f17764b7a8d3fab4938cb00d18e944d"
+    },
+    {
+      "path": "planning-with-files/templates/analytics_findings.md",
+      "sha256": "5dcb1bf6737c737646ec3fd173e107ed2fa12eec9a68d32e63ba3e0a0d1d59a9"
+    },
+    {
+      "path": "planning-with-files/templates/analytics_task_plan.md",
+      "sha256": "23bd59a0dae765eb1058ea0287447f2c9da7558d6ec79a6d167341e6e13f13f8"
+    },
+    {
+      "path": "planning-with-files/templates/findings.md",
+      "sha256": "880a3a776c6ccff2410262c29e6d8d895e96f74cf7d2a179f32bc56c3f1fb124"
+    },
+    {
+      "path": "planning-with-files/templates/loop.md",
+      "sha256": "26b3f2bd8094c6e2e2e6c47a6548a1f6506eaa02f857870922d855659bc8c31c"
+    },
+    {
+      "path": "planning-with-files/templates/progress.md",
+      "sha256": "57fe4d0859b1eed8d086a554553609d42a9516c5fb0143f63b09be0b2e7ec342"
+    },
+    {
+      "path": "planning-with-files/templates/task_plan.md",
+      "sha256": "62f271622866a36d5db3c18cc8accc823af08782c40db92c87c9378ca3f4d72a"
+    },
+    {
+      "path": "qoder-delegate/references/dispatch-and-poll.md",
+      "sha256": "c722b37360ca721df220980019a38cd4c0ea6c86ff8730e5d263003ebdddad01"
+    },
+    {
+      "path": "qoder-delegate/references/multi-task-queues.md",
+      "sha256": "038411536fc1ee682046587217b39a2aa162856b90079fc39fd35d92e46ba295"
+    },
+    {
+      "path": "qoder-delegate/references/review-and-land.md",
+      "sha256": "0221e55e218c6bb0d349985ecacc339b9aedb2fd88732b398bd2a941b2f2fed8"
+    },
+    {
+      "path": "qoder-delegate/references/writing-the-brief.md",
+      "sha256": "d12b8604a3edaddf2965e27dee8d45cea4441e60d2d219af0b6e86fff1463b6f"
+    },
+    {
+      "path": "qoder-delegate/scripts/relay.mjs",
+      "sha256": "1ac9a109db26aee06af5b59ab47dd98c2c246cc97b5238d8139029dd9fac3fc4"
+    },
+    {
+      "path": "qoder-delegate/SKILL.md",
+      "sha256": "62e9211333b796fdb8dbd7ce8ac1ab9fbbe22a5ad51e574c5b111a9c66d79154"
+    },
+    {
+      "path": "receiving-code-review/SKILL.md",
+      "sha256": "091df1629510af1b92fc4abd6f96732ebedb4cb2c0f3457e8f2740b0504a2438"
+    },
+    {
+      "path": "redesign-skill/SKILL.md",
+      "sha256": "98ad3e5b051bfb71b2795f7e8a6aa0d32b51ee095606c098a4b2822ac07926c9"
+    },
+    {
+      "path": "requesting-code-review/code-reviewer.md",
+      "sha256": "82e370be6b3447523816286195571e4216ba56ba1ad6ad0e87862294c4c78dcb"
+    },
+    {
+      "path": "requesting-code-review/SKILL.md",
+      "sha256": "cfcee1b06774e7c0517f1e09be1a11f2d5680257072723e709ddbcf7e08b795a"
+    },
+    {
+      "path": "schema.json",
+      "sha256": "49c2ca41bd17a9ddd6b0df34a7e184a3d831d97633bec4bb096695f4eb362f64"
+    },
+    {
+      "path": "soft-skill/SKILL.md",
+      "sha256": "e1e32f5e2d420872c6c7332b53d5ff7721946766b78c4822b424c2d512c8fdbc"
+    },
+    {
+      "path": "stitch-skill/DESIGN.md",
+      "sha256": "0ab6740c4ebb1966dbceddb823a66d4bf027e960efbd73faca56cbf8370ae2ad"
+    },
+    {
+      "path": "stitch-skill/SKILL.md",
+      "sha256": "46bdb08fee2dded38b6ba0a051230a502d6ac6e4044afd47592cb40c256028b5"
+    },
+    {
+      "path": "subagent-driven-development/implementer-prompt.md",
+      "sha256": "81dd9d5a3fb0b09b96b5829f03b9796842f3199ef7591d1ba1c2db2a515f64d0"
+    },
+    {
+      "path": "subagent-driven-development/re-review-prompt.md",
+      "sha256": "0828a5e9cbb12ba49f14621dd8c3953c48c0fc383e75bb5494f055ed0d6d824f"
+    },
+    {
+      "path": "subagent-driven-development/scripts/review-package",
+      "sha256": "f617c52c538f09b13bd19a301cf5201584dcfd7aaf552eedefb3405f3f90fe0e"
+    },
+    {
+      "path": "subagent-driven-development/scripts/sdd-workspace",
+      "sha256": "6e36a399687199dc11b9d7bd3038082d6a4637e7ad373b674dbb09f8ee1f7eea"
+    },
+    {
+      "path": "subagent-driven-development/scripts/task-brief",
+      "sha256": "51bb3fb73b07f85fd19d8f29f178451f7557b8c3d084a85835c5bc6bc15869f3"
+    },
+    {
+      "path": "subagent-driven-development/SKILL.md",
+      "sha256": "8dde5589ee083fb4999106d116f01c8fdaf3116a8a9813fdedeb80329de49046"
+    },
+    {
+      "path": "subagent-driven-development/task-reviewer-prompt.md",
+      "sha256": "bfed55c8f19d0ff6ed57b0fe09127c92890e9311c6c73917129598826bf9ebe8"
+    },
+    {
+      "path": "systematic-debugging/condition-based-waiting-example.ts",
+      "sha256": "40ae5ebe497fdf310200e43fe986552546d0a22837c0d39e855db1cfd33eb88e"
+    },
+    {
+      "path": "systematic-debugging/condition-based-waiting.md",
+      "sha256": "e89fec8400d6cd50f43407cec9fab50976ba4d55d0ec2eb51c0bd68036b54c26"
+    },
+    {
+      "path": "systematic-debugging/CREATION-LOG.md",
+      "sha256": "c24733a5b1821bd6bed1fc950261f0b9f4e90097e0bbb96459d8179713730789"
+    },
+    {
+      "path": "systematic-debugging/defense-in-depth.md",
+      "sha256": "1e175fb86fc357e58c6aebf5441e481e1b7868b4380c0456b63a17eefbd18ba7"
+    },
+    {
+      "path": "systematic-debugging/find-polluter.sh",
+      "sha256": "dd7b8f13c4cc2a24b33ff87b18da9248f3e1c80a085c3316224f69ff0fa5c43c"
+    },
+    {
+      "path": "systematic-debugging/root-cause-tracing.md",
+      "sha256": "75b933b6a8c40bdb2031b10f21654395b56ec6ab6bc7b018c18d3fe57aeb7fb8"
+    },
+    {
+      "path": "systematic-debugging/SKILL.md",
+      "sha256": "808fc5717aa88ad65efff312b11c186294d3e6ee301afb584e2f86599b137787"
+    },
+    {
+      "path": "systematic-debugging/test-academic.md",
+      "sha256": "fe2ba480d78ac0d686dc025f41c2a32a43d642bf533f91b0c6053a04d35d6486"
+    },
+    {
+      "path": "systematic-debugging/test-pressure-1.md",
+      "sha256": "0b6a915db0054577819834c79be9eb614e97bddba10d73768e1fbe91cfed048a"
+    },
+    {
+      "path": "systematic-debugging/test-pressure-2.md",
+      "sha256": "b2030aeffba07050e8ad573ddf87486457c4a016a786bb326235bebd856f2016"
+    },
+    {
+      "path": "systematic-debugging/test-pressure-3.md",
+      "sha256": "96b50a52e2c7989c9cf20fb752c47c1e9a3a70dc362f8f7989f8f5b64dac7708"
+    },
+    {
+      "path": "taste-skill/SKILL.md",
+      "sha256": "aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89"
+    },
+    {
+      "path": "taste-skill-v1/SKILL.md",
+      "sha256": "033d45af1ed23832730642f95f40ab49db7fb5222848489a6c5656144bfc6dae"
+    },
+    {
+      "path": "test-driven-development/SKILL.md",
+      "sha256": "64b03fce4aee5a97a93160cea8111f3ba13a17b7c001db4bd5836d67fd10705d"
+    },
+    {
+      "path": "test-driven-development/writing-good-tests.md",
+      "sha256": "51471c853306ff92ca8bb41dcaea05f31c0e46b03651f8f3c99754b7172f4ae1"
+    },
+    {
+      "path": "using-git-worktrees/SKILL.md",
+      "sha256": "8cfb86f121269e8f7f12361e6795c4f6738828340e28964c9229d365666c9edd"
+    },
+    {
+      "path": "using-superpowers/references/antigravity-tools.md",
+      "sha256": "4880f6de3da4e32f9659ebe7a72b9e0ebfff04e028c2ed96173f86d0387a04c0"
+    },
+    {
+      "path": "using-superpowers/references/claude-code-tools.md",
+      "sha256": "21479a3fee27448cab8748a3b5687e53bb257883bda9c070426f9a1ab5cebf1b"
+    },
+    {
+      "path": "using-superpowers/references/codex-tools.md",
+      "sha256": "1a38ad9b188c393052f58d95657a1c35ea6aafc8b5a27f198f3922912f70bbe7"
+    },
+    {
+      "path": "using-superpowers/references/gemini-tools.md",
+      "sha256": "62b9157bcb0ee3c6784e3d0da0798ddfa5872f9e0c34bea48f3079dabea71965"
+    },
+    {
+      "path": "using-superpowers/references/hermes-tools.md",
+      "sha256": "e2185c976a3c87503910e05e2aea58cc89bc8e569bb624b93df9958ac47a9190"
+    },
+    {
+      "path": "using-superpowers/references/muse-tools.md",
+      "sha256": "5a1da5c575fe18456ca71cd47ebfd8a38c745f8d82a67fe64d5b83080000eeb3"
+    },
+    {
+      "path": "using-superpowers/references/pi-tools.md",
+      "sha256": "703dbc83d23ecab9c6f388460c38abc482e9dee2fe6772a8c7a255152ad3a4d5"
+    },
+    {
+      "path": "using-superpowers/SKILL.md",
+      "sha256": "82c5c8866ad7f5dd4440ce66bd7806ba48a2f13771beae5cf112e53f08fe36ba"
+    },
+    {
+      "path": "verification-before-completion/SKILL.md",
+      "sha256": "2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3"
+    },
+    {
+      "path": "vibe-delegate/references/dispatch-and-poll.md",
+      "sha256": "3dca5f0ca3167879b8107e64b641b0c480a0f17e60910e396295b947c5d3698f"
+    },
+    {
+      "path": "vibe-delegate/references/multi-task-queues.md",
+      "sha256": "6397fc7a1fde59f054b469e059d6be25b63950e3be0bcbd416f910cdab9eae52"
+    },
+    {
+      "path": "vibe-delegate/references/review-and-land.md",
+      "sha256": "a0e7896d679cfe32ad86151b5a63013809cfaec14ed7490c0b43110c8a210cba"
+    },
+    {
+      "path": "vibe-delegate/references/writing-the-brief.md",
+      "sha256": "8183b683b5d97b7d59a6615ff051a607ca6c02db6d01c5efd4d8b5e46269dc9c"
+    },
+    {
+      "path": "vibe-delegate/scripts/relay.mjs",
+      "sha256": "737e8e03c5c2baa9bd23c9ed6acd5e2910bca8b242bc5d08101476c20def839e"
+    },
+    {
+      "path": "vibe-delegate/SKILL.md",
+      "sha256": "3f9c7ccb39ac610a4c5c30d7e6ef1190ca760c25cc3094df78951912d4b170d2"
+    },
+    {
+      "path": "warp-delegate/references/dispatch-and-poll.md",
+      "sha256": "b96d8f2c4ed8d707130335479dedadf2bf5f0baa72338ea8edf666a22e460999"
+    },
+    {
+      "path": "warp-delegate/references/multi-task-queues.md",
+      "sha256": "bc3d734c6d5bd22d5c06c453b38514467d35d1a417a74acbc8ecd6e31f060856"
+    },
+    {
+      "path": "warp-delegate/references/review-and-land.md",
+      "sha256": "94c716850d9fa16dbfc786031b03b6bf9eb9545777882cb182efe8dd3cb13fcc"
+    },
+    {
+      "path": "warp-delegate/references/writing-the-brief.md",
+      "sha256": "8ba2318a3493b054ceaa643b0c3207d5f8f70add8363a1e133b78eff096d8ed0"
+    },
+    {
+      "path": "warp-delegate/scripts/relay.mjs",
+      "sha256": "5843a5651e4c57fccee21d1cb6fab12e7e22e08ee2cf85d3e7063061a064eb07"
+    },
+    {
+      "path": "warp-delegate/SKILL.md",
+      "sha256": "15da816f3825311d73e165a66d11852d3c7beddf4cdb180d55de50af7e28d361"
+    },
+    {
+      "path": "writing-plans/plan-document-reviewer-prompt.md",
+      "sha256": "aa728b96aad603c8be28875a4305637f6c984aa81ffcadcb13e743202fa2a0c7"
+    },
+    {
+      "path": "writing-plans/SKILL.md",
+      "sha256": "0bc3d36590f7b2c323ed3ec18ff77e9f8ed57af42f5680a02b11a2d20de265cf"
+    },
+    {
+      "path": "writing-skills/anthropic-best-practices.md",
+      "sha256": "217629b356c09c9bd11017c9788e8fc654ca1b32c92d4a51cd490e16dd65e59a"
+    },
+    {
+      "path": "writing-skills/examples/CLAUDE_MD_TESTING.md",
+      "sha256": "0b379a3415e185d3c434b3ad283d8aa132f3022c2a4f210f168865b5986bcef0"
+    },
+    {
+      "path": "writing-skills/graphviz-conventions.dot",
+      "sha256": "b18a02773875f6c7b92f2a260e88550c92a62549b0009df9d680f7e9541d0ecc"
+    },
+    {
+      "path": "writing-skills/persuasion-principles.md",
+      "sha256": "a51bc9bf75189ea73a27b3fb504a2fdfdb966fb1f7f1cdf03203230a216ccc03"
+    },
+    {
+      "path": "writing-skills/render-graphs.js",
+      "sha256": "c7f412cc629461c4d10287e668731874c0497707023e3e3f74a5355eb2cee196"
+    },
+    {
+      "path": "writing-skills/SKILL.md",
+      "sha256": "bbdfe742f853562e643a3d40d64476359d47881e39cef80a189283fa26d11ab9"
+    },
+    {
+      "path": "writing-skills/testing-skills-with-subagents.md",
+      "sha256": "c711346852c911b24a84aa161e0cff06a4cd7f4e2fa9e9c0a266cead5afcbade"
+    },
+    {
+      "path": "zcode-delegate/references/dispatch-and-poll.md",
+      "sha256": "507776e0e27a50da91d9bb70b25f18ac22a64193409ba12fbea6d4bef5f96504"
+    },
+    {
+      "path": "zcode-delegate/references/multi-task-queues.md",
+      "sha256": "202ff7e83a1480aa837dfe0e6b95e3ac1bd78d27bdff6149b9d58684e0b16a7a"
+    },
+    {
+      "path": "zcode-delegate/references/review-and-land.md",
+      "sha256": "e808b75861f9169a4ff5df778d2cec1618cf8b529b90e2165923f53acf6119fd"
+    },
+    {
+      "path": "zcode-delegate/references/writing-the-brief.md",
+      "sha256": "e48c7f6cc4f9f70d7d03b8a845abef0d1aad8def70578f79d923a9efb8595eb8"
+    },
+    {
+      "path": "zcode-delegate/scripts/relay.mjs",
+      "sha256": "7551f7edd831b9a4b6d28c966af4cdd8a494e4db048c057ea4b82e2cca586ee7"
+    },
+    {
+      "path": "zcode-delegate/SKILL.md",
+      "sha256": "eb3b3143f0556a9c23cab6dc604cba0fb9d16f93e159daf916b30ded77a5b579"
+    }
+  ]
+}
